@@ -16,7 +16,7 @@
    <br>
     Begin by cloning the repository to your local machine. Open your terminal and execute the following command:  
     ```sh
-    git clone https://github.com/LokeshKumar710/Weather-App.git
+    git clone https://github.com/shashankpatnam/weather-app
     ```
 
 3. **Install Go Live Server Extension:**
